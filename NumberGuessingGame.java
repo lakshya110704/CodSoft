@@ -1,5 +1,4 @@
-
-
+package CodSoft;
 import java.util.*;
 
 class Guess {
